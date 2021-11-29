@@ -1,13 +1,4 @@
 
-const userNameinput=document.querySelector(".user-name");
-const passwordInput=document.querySelector(".password");
-const passwordAgain= document.querySelector(".password-again");
-
-
-
-
-
-
 const ul = document.getElementById("list");
 const pagination = document.querySelector('.pagination');
 
